@@ -7,7 +7,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-OLS%20%7C%20Poisson%20%7C%20NegBin-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Dashboards-FF4B4B?logo=streamlit&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 **🔗 [Dashboard 1](https://github.com/rishav-singh15/Demand-Price-Elasticity) · [Dashboard 2](https://github.com/rishav-singh15/price2) · [Full Report (PDF)](docs/PBL-3_Report.pdf)**
 
