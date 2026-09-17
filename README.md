@@ -8,7 +8,7 @@
 ![statsmodels](https://img.shields.io/badge/statsmodels-OLS%20%7C%20Poisson%20%7C%20NegBin-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Dashboards-FF4B4B?logo=streamlit&logoColor=white)
 
-**🔗 [Dashboard 1](https://github.com/rishav-singh15/Demand-Price-Elasticity) · [Dashboard 2](https://github.com/rishav-singh15/price2) · [Full Report (PDF)](docs/PBL-3_Report.pdf)**
+**🔗 [Dashboard](https://github.com/rishav-singh15/price2) · [Full Report (PDF)](docs/PBL-3_Report.pdf)**
 
 *Mini Project (PBL-3) · Dept. of Electrical & Electronics Engineering, MIT World Peace University · AY 2024–25*
 *Team: Rishav Singh · Mihir Mohite · Nishad Dere &nbsp;|&nbsp; Guide: Dr. Alka Barhatte*
